@@ -37,9 +37,10 @@ Project:
 25. Create Repository di Github
 26. Copy url reposiroty di Github
 27. Check remote list: `git remote -v`
-28. Add remote to local repository: `git add set-url origin <remote-url>`
+28. Add remote to local repository: `git remote add origin <remote-url>`
 29. Pastikan remotenya udah ada: `git remote -v`
-30. git push ke remote: `git push origin main`
+30. git push ke remote: `git push origin add/file`
+31. Create Pull Request
 31. merge branch baru itu ke main
 
 # Resolve conflict:
