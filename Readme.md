@@ -23,5 +23,7 @@ Project:
 12. Commit perubahan di text.txt: `git commit -m "menambahkan beberapa lines"`
 13. Melihat perubahan line di file Readme.md: `git diff Readme.md`
 14. Add Readme.md ke staging: `git add Readme.md`
+15. Commit perubahan di Readme.md: `git commit -m "menambahkan step git"`
+16. Melihat log lebih simple: `git log --oneline`
 6. push branch baru ke remote
 7. merge branch baru itu ke main
