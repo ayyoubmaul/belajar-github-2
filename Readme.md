@@ -14,3 +14,7 @@ Project:
 5. commit branch baru
 6. push branch baru ke remote
 7. merge branch baru itu ke main
+line 5
+line 6
+line 7
+line 8
