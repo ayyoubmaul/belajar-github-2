@@ -27,3 +27,7 @@ Project:
 16. Melihat log lebih simple: `git log --oneline`
 6. push branch baru ke remote
 7. merge branch baru itu ke main
+line 5
+line 6
+line 7
+line 8
