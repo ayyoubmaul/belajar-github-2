@@ -43,6 +43,18 @@ Project:
 31. Create Pull Request
 31. merge branch baru itu ke main
 
+# How to make conflicted file:
+1. `git checkout add/file`
+2. Adding new line di text.txt
+3. `git add test.txt`
+4. `git commit -m "adding new line"`
+5. `git checkout fix/readme`
+6. Adding new line to text.txt in the same line as add/file
+7. `git stash`
+8. `git merge add/file`
+9. `git stash pop`
+
+
 # Resolve conflict:
 1. Kalau terjadi conflict seperti gambar di bawah ini:
 
